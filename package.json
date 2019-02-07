@@ -1,0 +1,10 @@
+{
+  "name": "readdocs_demo",
+  "version": "1.0.0",
+  "description": "readdocs-io demo",
+  "main": "index.js",
+  "repository": "https://github.com/felixgondwe/presentations.git",
+  "author": "felixgondwe",
+  "license": "MIT",
+  "private": false
+}
