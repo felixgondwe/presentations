@@ -1,7 +1,7 @@
 Code samples
 ************
 
-.. literalinclude:: ../app.py
+.. literalinclude:: app.py
    :linenos:
    :language: python
    :lines: 1, 3-5
