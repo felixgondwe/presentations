@@ -2,7 +2,7 @@
 import os 
 
 def add_numbers(a, b):
-    """ Adds teo numbers
+    """ Adds two numbers
 
     :param a: int
     :param b: int

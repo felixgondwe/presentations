@@ -25,16 +25,13 @@ To build html simply run the following in your terminal
 
 .. code-block:: bash
    :linenos:
-   
+
    make html
 
-Other way to include code::
-    import math 
-    print(math.rand())
+
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
