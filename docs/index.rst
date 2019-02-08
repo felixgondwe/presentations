@@ -11,6 +11,7 @@ Welcome to readdocs-example's documentation!
    :caption: Contents:
 
    support
+   cookbook
    changelog
 
 ============
@@ -23,9 +24,13 @@ Sphinx will parse your .rst files to html in the build folder.
 To build html simply run the following in your terminal
 
 .. code-block:: bash
+   :linenos:
    
    make html
 
+Other way to include code::
+    import math 
+    print(math.rand())
 
 Indices and tables
 ==================
