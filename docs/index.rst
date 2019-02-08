@@ -10,7 +10,6 @@ Welcome to readdocs-example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   install
    support
    changelog
 
@@ -24,7 +23,8 @@ Sphinx will parse your .rst files to html in the build folder.
 To build html simply run the following in your terminal
 
 .. code-block:: bash
-    make html
+   
+   make html
 
 
 Indices and tables
